@@ -24,8 +24,6 @@ public class StudentEntity{
     public StudentEntity(){
 
 
-
-
         
     }
 
